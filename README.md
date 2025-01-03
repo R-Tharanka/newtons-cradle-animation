@@ -10,7 +10,8 @@ This project is a simple and visually appealing CSS animation inspired by Newton
 
 ## Preview
 
-![Newton's Cradle Animation Preview](preview.png)
+<!--![Newton's Cradle Animation Preview](preview.png)-->
+<img src="preview.png" alt="Newton's Cradle Animation" width="500">
 
 ## How to Use
 
