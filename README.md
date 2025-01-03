@@ -10,7 +10,7 @@ This project is a simple and visually appealing CSS animation inspired by Newton
 
 ## Preview
 
-![Newton's Cradle Animation Preview](path/to/preview-image.png)
+![Newton's Cradle Animation Preview](preview.png)
 
 ## How to Use
 
